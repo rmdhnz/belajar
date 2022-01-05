@@ -1,0 +1,6 @@
+1. Memperbaiki kehancuran selama semester 1
+2. IP minimal 3 
+3. Masuk salah satu tim robotik di ITS
+4. Matkul daspro adalah yang pertama dan terakhir kali ngulang
+5. Menguasai C++,Python tingkat tinggi
+6. Pemahaman yang lebih baik tentang komputer
