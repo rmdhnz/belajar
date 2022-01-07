@@ -4,3 +4,4 @@
 4. Matkul daspro adalah yang pertama dan terakhir kali ngulang
 5. Menguasai C++,Python tingkat tinggi
 6. Pemahaman yang lebih baik tentang komputer
+7. Matkul MAT FIS KIM semester 2 wajib A
